@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.containerinicio{
+    width: auto;
+    text-align: center;
+    background-color: #b0ddfc;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.containerinicio .logoImg {
+    margin-top: 25px;
+    width: 170px;
+}
+
+.containerinicio .Acontatos{
+    margin: 0px 8px;
+    text-decoration: none;
+}
