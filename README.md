@@ -1,23 +1,23 @@
 ## Titulo e resumo
 IMAGEM
 
-## Visão Geral
+### Visão Geral
 TEXTO
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 TEXTO
 
-## Desenvolvimento
+### Desenvolvimento
 TEXTO
 
-## Instalação e uso
+### Instalação e uso
 TEXTO
 
-## Screenshots
+### Screenshots
 IMAGENS
 
-## Licença
+### Licença
 TEXTO
 
-## Contato
+### Contato
 TEXTO
