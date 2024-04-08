@@ -32,7 +32,7 @@ body {
     width: 1200px;
 }
 
-.containerDescription {
+.containerDescription, .containerMembers {
     text-align: center;
     width: 1000px;
     margin: 50px auto;
@@ -51,11 +51,11 @@ h2 {
     color: #1d80c1;
 }
 
-.containerDescription .houseImg{
+.containerDescription .houseImg, .containerMembers .imgMembers{
     width: 450px;
 }
 
-.containerDescription .pDescription {
+.containerDescription .pDescription, .containerMembers .pMembers {
     text-align: justify;
     line-height: 25px;
 }
@@ -65,14 +65,14 @@ h2 {
     font-weight: bold;
 }
 
-.containerService {
+.containerService, .containerContacts {
     width: auto;
     background-color: #1d80c1;
     text-align: center;
 }
 
-.containerService h3 {
-    padding-top: 50px;
+h3 {
+    padding-top: 60px;
     padding-bottom: 10px;
     color: white;
     font-size: 25px;
@@ -105,3 +105,51 @@ h2 {
     margin: 15px;
 }
 
+.containerMembers h3 {
+    padding-top: 10px;
+    color: #1d80c1;
+}
+
+.containerContacts {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+    height: auto;
+}
+
+iframe {
+    height: 350px;
+    width: 900px;
+}
+
+.containerContacts .pContacts {
+    background-color: black;
+    color: white;
+    padding: 15px 1px;
+    width: 1000px;
+    margin: 30px auto;
+}
+
+.pContacts span {
+    color: yellow;
+    font-weight: bold;
+}
+
+.containerContacts .ListContacts {
+    font-size: 15px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.ListContacts .item {
+    margin: 20px 0px;
+    padding: 0px;
+    padding-left: 0px;
+    
+}
+
+.item a {
+    padding: 4px;
+    border-radius: 3px;
+    background-color: white;
+    color: #1d80c1
+}
