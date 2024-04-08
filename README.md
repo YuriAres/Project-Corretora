@@ -1,3 +1,20 @@
+## Titulo e resumo
 
+IMAGEM
 
-![image](https://github.com/YuriAres/Project-Corretora/assets/49327925/00c5ad85-b47d-4068-8600-d56a142e28a4)
+Resumo
+## Sumário
+    1. **Visão Geral**
+    2. **Tecnologias utilizadas** 
+    3. **Instalação e uso**
+    4. **Screenshots**
+    5. **Licença**
+    6. **Contato**
+## Visão Geral
+
+TEXTO
+## Tecnologias utilizadas
+## Instalação e uso
+## Screenshots
+## Licença
+## Contato
