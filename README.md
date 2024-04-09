@@ -1,7 +1,7 @@
-
-![GitHub repo size](https://img.shields.io/github/repo-size/YuriAres/Project-Corretora?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/YuriAres/Project-Corretora?style=for-the-badge)
-
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/YuriAres/Project-Corretora?style=for-the-badge">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/YuriAres/Project-Corretora?style=for-the-badge">
+</p>
 
 # Corretora de Imóveis 
 <p align="center">
