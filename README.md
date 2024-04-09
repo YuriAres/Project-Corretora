@@ -1,3 +1,8 @@
+
+![GitHub repo size](https://img.shields.io/github/repo-size/YuriAres/Project-Corretora?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/YuriAres/Project-Corretora?style=for-the-badge)
+
+
 # Corretora de Imóveis 
 <p align="center">
     <img src="https://github.com/YuriAres/Project-Corretora/assets/49327925/5ad395c1-1f81-4b6e-b43e-dabd620b1696" alt="Descrição da imagem" style="width: 850px; height: auto;">
